@@ -2,7 +2,7 @@
 
 ## Link
 
-In the project link -----> https://react-random-app2.netlify.app/
+In the project link -----> https://reactrandomuser2.netlify.app/
 
 ## Description
 
